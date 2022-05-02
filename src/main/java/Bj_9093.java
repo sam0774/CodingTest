@@ -1,5 +1,9 @@
-import java.util.Scanner;
 
+/*
+* 시간 초과
+* */
+
+import java.util.Scanner;
 public class Bj_9093 {
     public static void main(String[] args) {
 
